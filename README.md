@@ -92,7 +92,7 @@ Simsimi > 비싸다고 해서 다 좋은 건 아니에요.
 - MXNet
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haven-jeon/KoGPT2-chatbot/blob/master/KoGPT2_chatbot.ipynb)
 - ONNX
-  - [![Open In Colab](https://colab.research.google.com/drive/1_tEgrCT_Ul9XMgDUfeHpFamqOnOne3yf?usp=sharing)
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)https://colab.research.google.com/drive/1_tEgrCT_Ul9XMgDUfeHpFamqOnOne3yf?usp=sharing
 
 
 ## TODO
