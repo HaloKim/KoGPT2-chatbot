@@ -15,7 +15,7 @@
 
 <!-- /code_chunk_output -->
 # 추가사항
-기존 공개된 KoGPT2 챗봇 모델에 ONNX 모델변환과 coreml 변환코드를 작성했습니다.
+기존 공개된 KoGPT2 챗봇 모델에 ONNX 모델변환과 CoreML 변환코드를 작성했습니다.
 
 CoreML 모델은 아직 테스트중입니다.
 
